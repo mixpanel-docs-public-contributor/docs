@@ -38,6 +38,7 @@ export default {
     ),
   },
   "guide-to-product-analytics": "Guide to Product Analytics",
+  "product-analysis-strategy": "Product Analysis Strategy",
   "benchmarks": "Benchmarks",
   "strategic-playbooks": "Strategic Playbooks",
   "glossary": "Glossary"
